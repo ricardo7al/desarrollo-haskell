@@ -9,8 +9,8 @@ El objetivo del trabajo es plantear, examinar, resolver y recopilar diferentes e
 
 Al  desarollar los ejercicios se aprende sobre: 
 
--1 Manejo de un script en haskell (declaración, comentarios y definiciones).
--2 Tipo de datos en expresiones simples.
--3 Funciones en haskell (tuplas y listas).
--4 Expresiones condicionales y recursividad.
+- Manejo de un script en haskell (declaración, comentarios y definiciones).
+- Tipo de datos en expresiones simples.
+- Funciones en haskell (tuplas y listas).
+- Expresiones condicionales y recursividad.
 
